@@ -1,5 +1,9 @@
 # AGORA2
-"Genome-scale metabolic reconstruction of 7,302 human microbes for personalised medicine"
+"Genome-scale metabolic reconstruction of 7,302 human microorganisms for personalized medicine"
 by Heinken, A., ..., Thiele, I. 
 
-Please cite: https://www.biorxiv.org/content/10.1101/2020.11.09.375451v1.abstract when using this resource.
+As github does not permit to distribute large datasets, AGORA2 is only available here:
+https://vmh.life/files/reconstructions/AGORA2/version2.01/
+
+
+Please cite: https://www.nature.com/articles/s41587-022-01628-0 when using this resource in full or in part.
